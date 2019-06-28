@@ -1,1 +1,2 @@
-This is file3.txt
+This is updated file3.txt
+fresh content
